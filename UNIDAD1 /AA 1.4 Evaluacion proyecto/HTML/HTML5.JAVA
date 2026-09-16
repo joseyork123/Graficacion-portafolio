@@ -93,3 +93,4 @@ ctx.lineWidth = 4;
 ctx.lineCap = 'round';
 
 ctx.stroke();
+
